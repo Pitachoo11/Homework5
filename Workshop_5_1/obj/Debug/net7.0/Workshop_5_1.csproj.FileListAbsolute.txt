@@ -1,0 +1,15 @@
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.csproj.AssemblyReference.cache
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.AssemblyInfoInputs.cache
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.AssemblyInfo.cs
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.csproj.CoreCompileInputs.cache
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/bin/Debug/net7.0/Workshop_5_1
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/bin/Debug/net7.0/Workshop_5_1.deps.json
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/bin/Debug/net7.0/Workshop_5_1.runtimeconfig.json
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/bin/Debug/net7.0/Workshop_5_1.dll
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/bin/Debug/net7.0/Workshop_5_1.pdb
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.dll
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/refint/Workshop_5_1.dll
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.pdb
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/Workshop_5_1.genruntimeconfig.cache
+/Users/petr.churkin/Yandex.Disk.localized/_Coding/Homework/Homework5/Workshop_5_1/obj/Debug/net7.0/ref/Workshop_5_1.dll
